@@ -1,2 +1,2 @@
 # siminba
-siminba versi 1.0.0
+SIMINBA(Sistem Informasi Manajemen Inventory Barang Versi 1.0.0
